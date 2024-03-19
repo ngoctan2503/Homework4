@@ -1,0 +1,2 @@
+23ite1	Dang Ngoc Tan	Nam	10.0	10.0	10.0	Đậu
+23ite2	Dang Van A	Nu	2.0	3.0	2.6666666666666665	Đậu
